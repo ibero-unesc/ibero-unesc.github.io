@@ -22,7 +22,7 @@ Bootstrap 5.0
 
 ## Licença
 
-Distribuído sobb a licença MIT. 
+Distribuído sob a licença MIT. 
 
 ## Autores
 
