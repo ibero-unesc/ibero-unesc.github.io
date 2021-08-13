@@ -6,9 +6,8 @@
 
   <h1 align="center">Leia-me</h1>
 
- 
 
-![License](https://img.shields.io/github/license/ibero-unesc/ibero-unesc.github.io) 
+
 
 ## Sobre o projeto
 
