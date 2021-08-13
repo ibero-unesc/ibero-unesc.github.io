@@ -6,14 +6,7 @@
 
   <h3 align="center">Leia me</h3>
 
-  <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
-    <br/>
-    <br/>
-    <a href="https://github.com/ibero-unesc/ibero-unesc.github.io">View Demo</a>
-    .
-  </p>
-</p>
+ 
 
 ![License](https://img.shields.io/github/license/ibero-unesc/ibero-unesc.github.io) 
 
