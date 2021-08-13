@@ -22,7 +22,7 @@ Bootstrap 5.0
 
 ## Licença
 
-Distributed under the MIT License. See [LICENSE](https://github.com/ibero-unesc/ibero-unesc.github.io/blob/main/LICENSE.md) for more information.
+Distribuído sobb a licença MIT. 
 
 ## Autores
 
