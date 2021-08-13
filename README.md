@@ -4,7 +4,7 @@
     <img src="imgs/unesc_LOGO.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">Leia me</h1>
+  <h1 align="center">Leia-me</h1>
 
  
 
