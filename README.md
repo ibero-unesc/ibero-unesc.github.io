@@ -35,8 +35,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ibero-unesc/
 ## Authors
 
 * **Wender Cris de Souza Firmino** - *Professor* - [Wender Cris de Souza Firmino](https://github.com/wender-firmino) - *Implementação*
-* **Lucas Damazio** - *Professor* - [Lucas Damazio]() - *Identidade Visual*
-* **Leila Laís Gonçalves** - *Professora* - [Leila Laís Gonçalves]() - *Coordenadora*
+* **Lucas Damazio** - *Professor* - [Lucas Damazio](http://lattes.cnpq.br/2068381662906342) - *Identidade Visual*
+* **Leila Laís Gonçalves** - *Professora* - [Leila Laís Gonçalves](http://lattes.cnpq.br/7712560671790121) - *Coordenadora*
 
 ## Acknowledgements
 
